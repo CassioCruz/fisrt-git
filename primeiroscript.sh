@@ -23,7 +23,7 @@ fi
 	if [ $CONSULTA = noite ]
  	   then
 	       echo " O Médico $MEDICO3 é  unico a atender no turno $consulta"
-	       echo "a colsulta está ,marcada"
+	       echo "A consulta está ,marcada obrigado"
 fi
 
 
