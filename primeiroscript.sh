@@ -1,10 +1,11 @@
 #!/bin/bash
 
-echo "Ola seja bem vindo"
+echo "Ola seja BEM VINDO"
+  read nome
 MEDICO1=Cassio
 MEDICO2=Vera
 MEDICO3=Cruz
-echo "Qual turno deseja consultar"
+echo "Qual turno o $nome deseja consultar"
    read CONSULTA
 	if [ $CONSULTA = manha ]
  	   then
